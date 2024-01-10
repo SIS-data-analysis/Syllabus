@@ -31,7 +31,7 @@ chance to get your hands dirty in the world of analysis and explore the
 new and challenging puzzles you face every day in this profession.
 
 Students who complete this course will be proficient junior analysts.
-They will be able to (i) build, clean, and manipulate quantitative data, (ii) generate professional data visualizations, (iii) present data-driven research to a professional audience, and (iv) write clear, efficient, reproducible code in the R programming language. 
+They will be able to (i) build, clean, and manipulate quantitative data, (ii) generate professional data visualizations, (iii) present data-driven research to a professional audience, and (iv) write clear, efficient, reproducible code in the R programming language.   
 
 ## Expectations and workload
 
@@ -48,21 +48,22 @@ commit to these hours.*
 
 I will post handouts, data, R scripts, and links to reading materials on
 our course github site. While there is no textbook to purchase, I will
-draw regularly on the following: - Jenny Bryan's [Stat 545
-collection](https://stat545.com/) - Claus Wilke's foundational text on
-visualization, [Fundamentals of Data
-Visualization](https://clauswilke.com/dataviz/) - Winston Chang's
-[Cookbook for R](http://www.cookbook-r.com/) - A basic introduction to
-R, my own [Survival
-Guide](https://austin-hart-pols.github.io/SurvivalGuide/)
+draw regularly on the following:  
+
+-   Jenny Bryan's [Stat 545 collection](https://stat545.com/)  
+
+-   Claus Wilke's foundational text on visualization, [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)  
+
+-   Winston Chang's [Cookbook for R](http://www.cookbook-r.com/)  
+
+-   A basic introduction to R, my own [Survival Guide](https://austin-hart-pols.github.io/SurvivalGuide/)  
 
 You need regular and reliable access to R and RStudio IDE, and I urge
 you to bring your laptop to class. These programs work across platforms
 and are available for free. You will also need to connect RStudio with
 Github, a cloud-based `Git` repository for code sharing and
 collaboration (i.e., version control). You can find installation
-instructions in the [Getting Started
-repository](https://github.com/sis750/00-getting-started).
+instructions in the [Getting Started repository](https://github.com/sis750/00-getting-started).
 
 Becoming proficient with these programs is a challenging, though
 necessary, part of this course. When you run into trouble (i) Review
